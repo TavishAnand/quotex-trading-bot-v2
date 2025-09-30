@@ -1,0 +1,14 @@
+{
+  "name": "ultra-trading-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "axios": "^1.4.0",
+    "node-cron": "^3.0.2",
+    "moment": "^2.29.4"
+  }
+}
